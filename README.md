@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 ##
+
+This is my first and personal repository 
+
+- 🔭 I’m currently working on IOC Lookup Tool
+- 🌱 I’m currently learning Cybersecurity
+- 👯 I’m looking to collaborate on any cybersecurity tools
+- 🤔 I’m looking for help with automation process on my tool
+- 💬 Ask me about Cybersecurity
+- 📫 How to reach me: @ivoykds
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Your brain is constantly eating itself
 
 <!--
 **ivoykds/ivoykds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
